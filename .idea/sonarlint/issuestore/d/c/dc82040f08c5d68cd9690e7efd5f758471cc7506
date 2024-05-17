@@ -1,0 +1,17 @@
+
+˜
+java:S1104"UMake MIN_ALTER a static final constant or non-public and provide accessors if needed.(Á¼»€8äÕªŸø1J$83a6c1a9-b018-4d8f-be75-c63e168b40d4
+
+java:S1104"UMake MAX_ALTER a static final constant or non-public and provide accessors if needed.(ÿ®Äÿÿÿÿÿ8äÕªŸø1J$297a5aba-8b6d-4913-ab4f-c1fde5b58935
+r
+java:S1444"/Make this "public static MIN_ALTER" field final(Á¼»€8äÕªŸø1J$42185e67-76d1-4c0c-9e9f-f7fa7397cae4
+w
+java:S1444"/Make this "public static MAX_ALTER" field final(ÿ®Äÿÿÿÿÿ8äÕªŸø1J$649e1563-0419-49fc-b367-0280bf6d76ec
+—
+java:S3008"TRename this field "MIN_ALTER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á¼»€8èÕªŸø1J$5379de24-206a-4e56-be55-687cf09983a9
+œ
+java:S3008"TRename this field "MAX_ALTER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ®Äÿÿÿÿÿ8èÕªŸø1J$6d56a58c-eae6-429c-ac74-c672ec4b433b
+š
+java:S3008"WRename this field "STARTGEWICHT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·Î¹‡8èÕªŸø1J$4b1fb454-2775-4a60-a4f9-bbeae36e9240
+s
+java:S1068"0Remove this unused "STARTGEWICHT" private field.(·Î¹‡8ìÕªŸø1J$3ec82275-1f45-46b4-bfd3-fd89d6e35545

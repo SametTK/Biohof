@@ -1,0 +1,28 @@
+
+
+java:S1104"\Make MAX_ANZAHL_KUEHE a static final constant or non-public and provide accessors if needed.(ùÎšv8’‹ ø1J$9756e589-862c-450d-bd06-abe10f9b4cbc
+¦
+java:S1104	"^Make MIN_ANZAHL_HUEHNER a static final constant or non-public and provide accessors if needed.(Ÿ«½ëûÿÿÿÿ8’‹ ø1J$69d21811-77b0-411f-9701-fdfa10435664
+§
+java:S1104
+"_Make MAX_ANZAHL_SCHWEINE a static final constant or non-public and provide accessors if needed.(»¾áÁùÿÿÿÿ8’‹ ø1J$8c867bb9-6d3e-4c40-8f85-09be9db8b0f6
+x
+java:S1444"6Make this "public static MAX_ANZAHL_KUEHE" field final(ùÎšv8’‹ ø1J$b6c84403-ebde-48d5-b69c-0915583c7464
+€
+java:S1444	"8Make this "public static MIN_ANZAHL_HUEHNER" field final(Ÿ«½ëûÿÿÿÿ8’‹ ø1J$38e12157-8af8-4683-bcbf-440e289745d1
+
+java:S1444
+"9Make this "public static MAX_ANZAHL_SCHWEINE" field final(»¾áÁùÿÿÿÿ8’‹ ø1J$c906639e-d7f9-4b90-a0ab-21569290898b
+
+java:S3008"[Rename this field "MAX_ANZAHL_KUEHE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùÎšv8“’‹ ø1J$f91cfaa0-3b2f-43b0-96ad-068aa554e060
+¥
+java:S3008	"]Rename this field "MIN_ANZAHL_HUEHNER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿ«½ëûÿÿÿÿ8“’‹ ø1J$2b89146e-bb3a-4e8f-b996-ab6ffa629044
+¦
+java:S3008
+"^Rename this field "MAX_ANZAHL_SCHWEINE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»¾áÁùÿÿÿÿ8“’‹ ø1J$02815677-3707-4373-b732-e8a4a0084517
+™
+java:S1450"VRemove the "hofname" field and declare it as a local variable in the relevant methods.(ìß‰ğ8”’‹ ø1J$545a5bb2-8184-4a06-b44d-bce6b86a1e2b
+u
+java:S1135#"2Complete the task associated to this TODO comment.(¤§«²8²İ™ ø1J$329bb6f9-ca01-4832-a062-f03ad0e73134
+n
+java:S1068"+Remove this unused "hofname" private field.(ìß‰ğ8˜’‹ ø1J$fc87a2a5-2007-42ba-a2d6-94a81471f592
